@@ -7,14 +7,14 @@ Mais aussi des activités dans la ville de leur choix.
 Réalisation d'un prototype et intégration la maquette en HTML et CSS,
 pour le projet 2 de la formation **Developpeur Web** [Openclassrooms](https://openclassrooms.com/fr/)
 
-##### Structure Code
+#### Structure Code
 - Fichier index.html contenant le code HTML du projet ;
 - Dossier “css” contenant le fichier de style CSS ;
 - Dossier “images” contenant l’ensemble des images utilisées pour le projet.
 - Dossier "model_project" contenant les maquettes du résultat attendu par le client.
 
 
-###### Spécifications techniques
+#### Spécifications techniques
 
 - Deux maquettes ont été réalisées : l’une desktop et l’autre mobile. 
 - Le site est néanmoins adapté aux formats tablette, aucun élément n'est coupé, et le tout est
