@@ -35,6 +35,10 @@ Un gris pour le fond **#F2F2F2**.
 
 - Pour la police du site le choix c'est porté pour la **font Raleway** 
 En utilissant la bibliothéque de [Google Font](https://fonts.google.com/specimen/Raleway.).
+###
+### Site Web
+#### Si vous souhaitez directement consulter le site suivez ce lien : **[Booki]( https://neocor89.github.io/Projet_Booki/)**
+###
 
 
 - Le code est valide et à été soumis aux vérifications des validateurs [W3C](https://www.w3.org/).
