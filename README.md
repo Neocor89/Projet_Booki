@@ -40,3 +40,11 @@ En utilissant la bibliothéque de [Google Font](https://fonts.google.com/specime
 - Le code est valide et à été soumis aux vérifications des validateurs [W3C](https://www.w3.org/).
 Le code du site site **compatible** avec les dernières versions de
 Google Chrome et de Mozilla [Firefox](https://www.mozilla.org/).
+##
+## Rendu visuel du Projet dans sa version Desktop
+##
+![booki_project (desktop_resize)](https://user-images.githubusercontent.com/88207582/165180367-36c5f657-1860-44ed-9573-c1cf7c736904.png)
+##
+## Rendu visuel du Projet dans sa version Mobile
+##
+<img width="375" alt="iPhone 8 - 1" src="https://user-images.githubusercontent.com/88207582/165180685-18c3cfba-961f-4feb-b6bc-15b9ea381e32.png">
